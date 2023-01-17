@@ -12,4 +12,4 @@ This can be installed using '!pip install' on Google Colab or Jupyter Notebook.
 
 ## Technologies Used
 - Google Colab
--Python 3.7+
+- Python 3.7+
