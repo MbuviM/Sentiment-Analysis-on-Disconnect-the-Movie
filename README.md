@@ -8,7 +8,7 @@ This is an analysis on the reviews that fans of Disconnect gave through their tw
 -tweepy
 -requests
 
-This can be installed using """!pip install""" on Google Colab or Jupyter Notebook.
+This can be installed using '!pip install' on Google Colab or Jupyter Notebook.
 
 ## Technologies Used
 - Google Colab
